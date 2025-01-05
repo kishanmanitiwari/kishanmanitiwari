@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishan itiwari
 - 👀 I’m interested in full stack development and open source.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning to play guitar
 - 💞️ I’m looking to collaborate on Linkedin and Email
 - 📫 How to reach me 
                       kishanmanitiwari@gmail.com
